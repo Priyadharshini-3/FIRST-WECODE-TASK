@@ -1,0 +1,31 @@
+#sp{
+    color:darkblue;
+    font-weight: bold;
+  }
+  
+  #sp1{
+  color:mediumvioletred;
+  font-weight: bold;
+  }
+  
+ .input-group-text{
+    background: rgba(43, 6, 6, 0.808);
+    font-weight: bold;
+    color:black;
+    font-size: 24px;
+  }
+  
+  .text-center{
+    color:brown;
+    font-weight:normal;
+  }
+  
+  .result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+h3{
+    text-align: center;
+    -webkit-text-fill-color:goldenrod;
+}
